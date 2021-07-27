@@ -10,3 +10,7 @@ Choose any 10 classes from the dataset and shows
  * class-wise accuracy 
  * Overall accuracy 
  * Check if the model is biased or not by using at-least ​2 metrics​ ex. Confusion Matrix and bias score
+
+
+
+Dataset- [link](https://www.kaggle.com/havingfun/100-bollywood-celebrity-faces) 
